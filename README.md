@@ -2,6 +2,14 @@
 本项目为本人复现ChinaVIS2017挑战赛2的作品，其中部分界面为自己设计，部分界面参考了一等奖获奖作品
 ### 一、项目介绍
 - 仓库地址：[https://github.com/Laighten/ChinaVis2017-challenge2.git](https://github.com/Laighten/ChinaVis2017-challenge2.git)
+#### （1）Geographical
+![Geographical](https://github.com/Laighten/ChinaVis2017-challenge2/raw/master/img/图片0.png)
+#### （2）AgeTime
+![AgeTime](https://github.com/Laighten/ChinaVis2017-challenge2/raw/master/img/图片1.png)
+#### （3）illegalBar
+![illegalBar](https://github.com/Laighten/ChinaVis2017-challenge2/raw/master/img/图片2.png)
+#### （4）Signature
+![Signature](https://github.com/Laighten/ChinaVis2017-challenge2/raw/master/img/图片3.png)
 ### 二、后端部署
 必备软件：
 - mongodb v3.7.3 其他版本也行
