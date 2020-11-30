@@ -9,7 +9,7 @@
 #### （3）illegalBar
 ![illegalBar](https://github.com/Laighten/ChinaVis2017-challenge2/raw/master/img/图片2.png)
 #### （4）Signature
-![Signature](https://github.com/Laighten/ChinaVis2017-challenge2/raw/master/img/图片3.png)
+![Signature](https://github.com/Laighten/ChinaVis2017-challenge2/raw/master/img/图片4.png)
 ### 二、后端部署
 必备软件：
 - mongodb v3.7.3 其他版本也行
