@@ -1,7 +1,7 @@
 <template>
     <div class="footer">
         
-        <p class="text-center color" >©{{ year }} 赖腾的毕业设计,All rights reserved. </p>
+        <p class="text-center color" >©{{ year }} XXX,All rights reserved. </p>
        
     </div>
 </template>
